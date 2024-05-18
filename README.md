@@ -10,7 +10,7 @@ In order to install this project you would need to clone the code from the repos
 
 ## Usage
 
-In order to use this project initiate it in the command line by running node index.js and answer the questions prompted to customize it according to your desired logo. Please note the three-character limit for the text and that colors not matching any color name or hexadecimal code will default to black. [Click here to go to a walkthrough video](https://drive.google.com/file/d/1Il7OeePHeVeJhXW_mGk5CGyGc8GtCR1g/view)
+In order to use this project initiate it in the command line by running node index.js and answer the questions prompted to customize it according to your desired logo. Please note the three-character limit for the text and that colors not matching any color name or hexadecimal code will default to black. [Click here to go to a walkthrough video](https://drive.google.com/file/d/1m6f_09Sw9dEdaB3gutcVBr5szAO05jPe/view)
 
 ## Credits
 
@@ -22,7 +22,7 @@ We welcome contributions to this project! To contribute, please follow these ste
 
 ## Tests
 
-In order to run tests on this project first ensure that you have node installed in your machine, navigate to the project directory in your terminal and run the next commands: 'npm install' or 'npm i' to install the dependencies and 'npm run test' to run the tests. The tests in this project include input validation and the expected performance of the functions.
+In order to run tests on this project first ensure that you have node installed in your machine, navigate to the project directory in your terminal and run the next commands: 'npm install' or 'npm i' to install the dependencies and 'npm' test' to run the tests. The tests in this project include input validation and the expected performance of the functions.
 
 ## License
 
